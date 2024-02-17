@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LCR",
+    " B ",
+    "   "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:red_wool"
+    },
+    "C": {
+      "item": "minecraft:water_bucket"
+    },
+    "R": {
+      "item": "minecraft:black_wool"
+    },
+    "B": {
+      "item": "minecraft:dispenser"
+    }
+  },
+  "result": {
+    "item": "first-mod:custom_item"
+  }
+}
